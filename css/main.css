@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#title {
+    margin-top: 20%;
+}
+
+#projects {
+    margin-top: 10%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color:#505050;
+}
+
+ #linkedin-icon, #github-icon{
+    margin: 5px;
+    text-decoration: none;
+}
