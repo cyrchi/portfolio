@@ -9,7 +9,7 @@ html, body {
 }
 
 #projects {
-    margin-top: 10%;
+    margin-top: 12%;
 }
 
 a {
@@ -21,7 +21,11 @@ a:hover {
     color:#505050;
 }
 
- #linkedin-icon, #github-icon{
+ #linkedin-icon, #github-icon {
     margin: 5px;
     text-decoration: none;
+}
+
+#arrow {
+    height: 50px;
 }
